@@ -6,4 +6,8 @@ public class Test {
 		
 		System.out.println("I am manager");
 	}
+	
+	public static void sayHi() {
+		System.out.println("Hi Feature by Developer 1");
+	}
 }
