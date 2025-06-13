@@ -8,10 +8,10 @@ public class Test {
 	}
 	
 	public static void sayBye() {
-		System.out.println("Bye Feature by Developer 2");
+		System.out.println("Bye Feature by Developer II");
 	}
 	
 	public static void sayHi() {
-		System.out.println("Hi Feature by Developer 1");
+		System.out.println("Hi Feature by Developer I");
 	}
 }
